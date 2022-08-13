@@ -1,11 +1,11 @@
 echo "Preparing to use the weave..."
-sleep 5
+sleep 1
 echo "Reviewing spellbook..."
-sleep 5
+sleep 1
 echo "Memorizing verbal components..."
-sleep 5
+sleep 1
 echo "Practicing somatic components..."
-sleep 5
+sleep 1
 echo "collecting material components..."
-sleep 5
+sleep 1
 echo "Casting fireball..."
