@@ -11,4 +11,5 @@ sleep 1
 echo "What spell would you like to cast?"
 read varspell
 echo "Casting $varspell..."
+sleep 1
 echo "$varspell has been cast!"
