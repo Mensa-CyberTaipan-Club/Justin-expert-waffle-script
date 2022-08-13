@@ -1,7 +1,6 @@
 echo "Preparing to use the weave..."
 sleep 1
 echo "Reviewing spellbook..."
-
 sleep 1
 echo "Memorizing verbal components..."
 sleep 1
