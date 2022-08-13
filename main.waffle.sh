@@ -8,4 +8,4 @@ echo "Practicing somatic components..."
 sleep .5
 echo "collecting material components..."
 sleep .5
-echo "Casting fireball.."
+echo "Casting fireball..."
