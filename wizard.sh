@@ -9,7 +9,8 @@ sleep 1
 echo "collecting material components..."
 sleep 1
 echo "What spell would you like to cast?"
-read varspell
+read varspell 
 echo "Casting $varspell..."
 sleep 1
 echo "$varspell has been cast!"
+echo "Did $varspell damage to the enemy" 
