@@ -7,3 +7,4 @@ then
 fi
 apt install ufw
 ufw enable
+echo "A wall of fire has been created around your tower"
