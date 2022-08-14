@@ -5,3 +5,5 @@ then
   echo "The Wizards must be attuned as root."
   exit
 fi
+apt install ufw
+ufw enable
